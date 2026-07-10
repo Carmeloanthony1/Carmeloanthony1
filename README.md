@@ -33,13 +33,13 @@
 
 **meloproacc@gmail.com**
 - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-* **OS**: Kali Linux, Debian, Windows
+* **OS**: Kali Linux & Debian
 * **About**: Web Fullstack Developer & Cyber Security Interest
-* **IDE**: VS Code, Vim, Blender
+* **IDE**: VS Code
 
 **Languages.Programming** . . . `C`, `C++`, `JavaScript`
 **Languages.Computer** . . . . . `HTML`, `CSS`, `Markdown`
-**Frameworks** . . . . . . . . . `React.js`, `Node.js`, `Tailwind CSS`
+**Frameworks** . . . . . `React.js`, `Node.js`, `Tailwind CSS`
 
 **Contact**  
 * **Email**: meloproacc@gmail.com
