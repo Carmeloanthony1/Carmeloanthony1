@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋, I'm Carmelo Anthony</h1>
 
 <p align="center">
-  <b>Informatika Student at Universitas Multimedia Nusantara</b><br>
+  <b>Informatics Student at Universitas Multimedia Nusantara</b><br>
   Passionate about Web Development & Cyber Security
 </p>
 
