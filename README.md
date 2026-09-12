@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 - 🔭 **Education:** Currently studying Informatics at Universitas Multimedia Nusantara.
-- 🌱 **Learning:** Full-stack Web Development (React, Node.js, Tailwind CSS).
+- 🌱 **Learning:** Full-stack Web Developer (React, Node.js, Tailwind CSS).
 - 🛡️ **Interests:** Cyber Security, Penetration Testing.
 ---
 
